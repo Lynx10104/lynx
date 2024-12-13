@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Pushpa 2: The Rule Free Download</title>
+    <style>
+        /* Basic Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Animated Background Slideshow */
+        body {
+            font-family: Arial, sans-serif;
+            color: white;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            animation: backgroundSlideshow 15s infinite alternate;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        @keyframes backgroundSlideshow {
+            0% {
+                background: url('a.jpg') no-repeat center center / cover;
+            }
+            33% {
+                background: url('b.jpg') no-repeat center center / cover;
+            }
+            66% {
+                background: url('c.jpg') no-repeat center center / cover;
+            }
+            100% {
+                background: url('d.jpg') no-repeat center center / cover;
+            }
+        }
+
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            font-size: 2rem;
+            text-align: center;
+            color: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+        }
+
+        .content {
+            margin-top: 100px;
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .download-btn {
+            display: inline-block;
+            font-size: 1rem;
+            padding: 10px 20px;
+            background-color: #ff4d4d;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            margin: 10px 0;
+            cursor: pointer;
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .download-btn:hover {
+            background-color: #e60000;
+            box-shadow: 0 0 15px 5px rgba(255, 77, 77, 0.8);
+        }
+
+        .footer {
+            font-size: 0.8rem;
+            color: #ccc;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        /* Video Popup Styling */
+        .video-popup {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            width: 300px;
+            z-index: 2000;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .video-popup video {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>i don't know when will it get copyright, download it fast</header>
+
+    <!-- Video Popup -->
+    <div class="video-popup">
+        <video autoplay muted loop>
+            <source src="download video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <div class="content">
+        <h1>Movie Title: Pushpa 2: The Rule</h1>
+        <p>The super hit movie that changed everything! LOL</p>
+        <p>(Malayalam, Hindi, Tamil, Telugu) same link </p>
+        <a href="https://www.mediafire.com/file/na1rw59ouf29oci/Pushpa_2%253BThe_Rule.mkv/file" class="download-btn" download>
+            Download 1080p, file size 2.9 GB
+        </a>
+        <a href="https://www.mediafire.com/file/na1rw59ouf29oci/Pushpa_2%253BThe_Rule.mkv/file" class="download-btn" download>
+            Download 720p, file size 1.9 GB
+        </a>
+        <a href="https://www.mediafire.com/file/na1rw59ouf29oci/Pushpa_2%253BThe_Rule.mkv/file" class="download-btn" download>
+            Download 480p, file size 998 MB
+        </a>
+    </div>
+
+    <div class="footer">
+        <p>Relax and watch with Chill and same wibe friends ;D.</p>
+        <p>And Thank You For Visiting</p>
+    </div>
+</body>
+</html>
